@@ -1,0 +1,15 @@
+# Core
+pyyaml>=6.0
+
+# Web app
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# Optional: NLI-based hallucination detection
+# Uncomment if you want to use transformer-based NLI
+# transformers>=4.36.0
+# torch>=2.0.0
+# sentencepiece
+
+# Optional: for embedding-based metrics
+# sentence-transformers>=2.2.0

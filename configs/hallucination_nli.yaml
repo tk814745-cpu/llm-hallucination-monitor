@@ -1,0 +1,10 @@
+# Evaluation + hallucination detection (NLI if transformers installed)
+metrics:
+  - factuality
+  - relevance
+  - coherence
+  - length
+
+hallucination:
+  enabled: true
+  use_nli: true

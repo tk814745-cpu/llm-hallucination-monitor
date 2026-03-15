@@ -1,0 +1,10 @@
+# Basic evaluation: all default metrics, no NLI-based hallucination
+metrics:
+  - factuality
+  - relevance
+  - exact_match
+  - coherence
+  - length
+
+hallucination:
+  enabled: false

@@ -1,0 +1,5 @@
+{"prompt": "What is the capital of France?", "response": "The capital of France is Paris.", "reference": "Paris"}
+{"prompt": "Who wrote Romeo and Juliet?", "response": "William Shakespeare wrote Romeo and Juliet.", "reference": "William Shakespeare"}
+{"prompt": "What is 2 + 2?", "response": "2 + 2 equals 4.", "reference": "4"}
+{"claim": "The Eiffel Tower is located in London.", "source": "The Eiffel Tower is a landmark in Paris, France."}
+{"claim": "The sky is blue during the day.", "source": "The sky appears blue because of Rayleigh scattering of sunlight."}
